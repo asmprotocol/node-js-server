@@ -1,0 +1,10 @@
+# IDE
+.idea
+
+# Project
+node_modules/
+
+# Temp files
+.tmp
+.swp
+.DS_STORE
